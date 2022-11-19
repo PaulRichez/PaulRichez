@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EasyGroupware**
 
-- 👨‍💻 All of my projects are available at [https://www.paulrichez.fr/](www.paulrichez.fr/)
+- 👨‍💻 All of my projects are available at [https://www.paulrichez.fr/](https://www.paulrichez.fr/)
 
 - 💬 Ask me about **Angular**
 
