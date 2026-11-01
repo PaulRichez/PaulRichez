@@ -39,6 +39,19 @@ Autocomplete, diagnostics, go-to-definition and rename for Strapi magic strings,
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [n8n-chat](https://github.com/apartejs/n8n-chat)
+
+n8n's chat widget, drawn by aparté: change the import, keep your `createChat()` call. Your workflow can answer with rich cards (an order, a booking, a product, the weather). Every `@n8n/chat` option, ten languages, from npm or a CDN.
+
+[Live demo](https://n8n-chat.apartejs.dev) · [Docs](https://apartejs.dev/other-plugins/n8n-chat/)
+
+[![npm](https://img.shields.io/npm/dm/@aparte/n8n-chat?style=flat-square&label=%40aparte%2Fn8n-chat)](https://www.npmjs.com/package/@aparte/n8n-chat)
+
+</td>
+</tr>
 </table>
 
 ## Strapi plugins
